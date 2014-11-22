@@ -1,0 +1,8 @@
+int x=3
+void main()
+{
+  for(x=3;x>0;i--)
+     {
+      printf("x=%d\n"x);
+     }
+}
